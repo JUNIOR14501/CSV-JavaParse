@@ -8,9 +8,9 @@ After launching, the application waits for entering the path to the directory fi
 
 After entering the path to the directory file, the application generates summary statistics:
 
-Displays duplicate entries with the number of repetitions.
-Displays how many in each city: 1, 2, 3, 4 and 5 storey buildings.
-Shows the file processing time.
+1) Displays duplicate entries with the number of repetitions.
+2) Displays how many in each city: 1, 2, 3, 4 and 5 storey buildings.
+3) Shows the file processing time.
 After the statistics are output, the application again waits for entering the path to the directory file or the shutdown command.
 
 On average, the program processes the file in 3,627 seconds.
